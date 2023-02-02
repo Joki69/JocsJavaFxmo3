@@ -101,9 +101,11 @@ public class Main extends Application {
             });
 
             // add start snake parts
+
             snake.add(new Corner(width / 2, height / 2));
             snake.add(new Corner(width / 2, height / 2));
             snake.add(new Corner(width / 2, height / 2));
+
             //If you do not want to use css style, you can just delete the next line.
           //  scene.getStylesheets().add(getClass().getResource("application.css").toExternalForm());
             primaryStage.setScene(scene);
@@ -208,7 +210,6 @@ public class Main extends Application {
             gc.fillRect(c.x * cornersize, c.y * cornersize, cornersize - 1, cornersize - 1);
             gc.setFill(Color.RED);
             gc.fillRect(c.x * cornersize, c.y * cornersize, cornersize - 2, cornersize - 2);
-
         }
 
     }
