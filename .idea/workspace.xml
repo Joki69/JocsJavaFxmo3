@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="651046b2-73c6-4d40-a37d-76497b679c05" name="Changes" comment="snake prototipo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jocsjavafxmo3/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/jocsjavafxmo3/Controlador.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jocsjavafxmo3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/jocsjavafxmo3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/jocsjavafxmo3/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/jocsjavafxmo3/hello-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
