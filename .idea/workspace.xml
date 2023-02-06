@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="651046b2-73c6-4d40-a37d-76497b679c05" name="Changes" comment="snake prototipo">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jocsjavafxmo3/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/jocsjavafxmo3/Controlador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jocsjavafxmo3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/jocsjavafxmo3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/jocsjavafxmo3/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/jocsjavafxmo3/hello-view.fxml" afterDir="false" />
-    </list>
+    <list default="true" id="651046b2-73c6-4d40-a37d-76497b679c05" name="Changes" comment="snake prototipo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675356910579</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="snake prototipo">
+      <created>1675699656297</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675699656297</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
